@@ -2,7 +2,7 @@
 
 
 
-Если хочешь пообщаться, подключайся к стимам на моем youtube канале: http://www.youtube.com/channel/UCbOgH6XlQURq9PnGfa4L4Mw  
+Если хочешь пообщаться, подключайся к стримам на моем youtube канале: http://www.youtube.com/channel/UCbOgH6XlQURq9PnGfa4L4Mw  
 Там ты найдешь лайв кодинг на C# и .net :)  
 Стримы проходят по выходным в 11:30. Обычно я делаю анонсы заранее ;)
 
