@@ -3,7 +3,7 @@
 Изучаешь dotnet, C#?
 Хочешь чтобы тебе кто нибудь помог, надоело разбираться со всем в одиночку?
 
-<h4>Приходи ко мне на стримы каждую субботу и воскресенье в 18:00</h4>
+<h4>Приходи ко мне на стримы каждую субботу и воскресенье в 10:00 МСК</h4>
 <a href="https://www.youtube.com/c/RomanTrufanovDev?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://cdn.worldvectorlogo.com/logos/youtube.svg" width="100" height="50"/></a>
 
