@@ -7,7 +7,7 @@
 <a href="https://www.youtube.com/c/RomanTrufanovDev?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://cdn.worldvectorlogo.com/logos/youtube.svg" width="100" height="50"/></a>
 
-<a href="https://www.twitch.tv/romantrufanovdev">
+<a href="https://www.twitch.tv/cleannetcode">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://brand.twitch.tv/assets/logos/svg/wordmark-extruded/purple.svg" width="100" height="50"/></a>
 
 Все стримы-занятия проходят в честном лайв режиме. Никаких заранее подготовленных, отредактированных видео. Только честный опыт и работа над собой!
