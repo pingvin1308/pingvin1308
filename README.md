@@ -2,18 +2,7 @@
 
 I'm Backend developer :)
 
-Now
-- 🌱 I’m currently learning SICP and basis about pogramming languages. 
-I would like to get the design ideas of different approaches
-
-
-- ⚡ Fun fact: I really love to teach people about programming. 
-So you can request code review, topics to discuss and questions of course :)
-
-
-
-📫 How to reach me in: 
-- https://www.reddit.com/user/epevelord/
+📫 How to reach me in:
 - https://www.linkedin.com/in/romantrufanov/
 
 
